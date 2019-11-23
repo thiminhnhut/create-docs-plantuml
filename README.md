@@ -44,3 +44,7 @@
       "Server" --> "App": Return Message
   @enduml
   ```
+
+  Kết quả:
+
+  ![Sample UML Sequence Diagram](images/sample.png)
