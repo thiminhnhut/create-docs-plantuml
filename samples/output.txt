@@ -1,0 +1,1 @@
+{\n\t"cmd_type": "00",\n\t"cmd_id": 68719776,\n\t"cmd_class": "00",\n\t"client_id": "bb9d6d67-16f3-4535-8248-f815e68c9b82"\n}
