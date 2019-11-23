@@ -1,5 +1,11 @@
 # Viết document với UML Sequence Diagram
 
+## Clone repository
+
+```bash
+git clone https://github.com/thiminhnhut/create-docs-plantuml
+```
+
 ## Cài đặt extension PlantUML trên VSCode
 
 - Extension [plantuml](https://github.com/qjebbs/vscode-plantuml): `ext install plantuml`
