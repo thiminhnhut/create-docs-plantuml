@@ -22,7 +22,7 @@ git clone https://github.com/thiminhnhut/create-docs-plantuml
 
 - Copy json data vào file `data.json`.
 
-- Format file `data.json` với các option `Indent Using Tabs`, `Convert indentation to tabs` và `Format Document`.
+- Format file `data.json` với các option `Format Document`, `Indent Using Tabs` và `Convert indentation to tabs`.
 
 ## Xuất text chèn vào PlantUML trong Markdown
 
