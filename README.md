@@ -6,6 +6,8 @@
 git clone https://github.com/thiminhnhut/create-docs-plantuml
 ```
 
+> **Note:** Các phần settings của PlantUML và json format được khai báo trong file `.vscode/settings.json` của repository.
+
 ## Cài đặt extension PlantUML trên VSCode
 
 - Extension [plantuml](https://github.com/qjebbs/vscode-plantuml): `ext install plantuml`
@@ -23,6 +25,18 @@ git clone https://github.com/thiminhnhut/create-docs-plantuml
 - Copy json data vào file `data.json`.
 
 - Format file `data.json` với các option `Format Document` và `Convert indentation to tabs`.
+
+- Settings: `.vscode/settings.json`
+
+  ```json
+  {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": false,
+    "json.format.enable": true
+  }
+  ```
 
 ## Xuất text chèn vào PlantUML trong Markdown
 

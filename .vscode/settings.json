@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": false,
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": false,
+  "json.format.enable": true,
+  "plantuml.server": "https://www.plantuml.com/plantuml"
+}
